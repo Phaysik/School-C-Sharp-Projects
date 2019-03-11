@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\Non-Compressed\ReadandWrite\ReadandWrite\bin\Debug\ReadandWrite.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\ReadandWrite\ReadandWrite\bin\Debug\ReadandWrite.exe
+E:\South Tech\Visual Studio\Non-Compressed\ReadandWrite\ReadandWrite\bin\Debug\ReadandWrite.pdb
+E:\South Tech\Visual Studio\Non-Compressed\ReadandWrite\ReadandWrite\obj\Debug\ReadandWrite.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Non-Compressed\ReadandWrite\ReadandWrite\obj\Debug\ReadandWrite.exe
+E:\South Tech\Visual Studio\Non-Compressed\ReadandWrite\ReadandWrite\obj\Debug\ReadandWrite.pdb

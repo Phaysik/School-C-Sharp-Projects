@@ -1,0 +1,7 @@
+G:\South Tech\Visual Studio\Non-Compressed\Flight\Flight\bin\Debug\Flight.exe.config
+G:\South Tech\Visual Studio\Non-Compressed\Flight\Flight\bin\Debug\Flight.exe
+G:\South Tech\Visual Studio\Non-Compressed\Flight\Flight\bin\Debug\Flight.pdb
+G:\South Tech\Visual Studio\Non-Compressed\Flight\Flight\obj\Debug\Flight.csprojAssemblyReference.cache
+G:\South Tech\Visual Studio\Non-Compressed\Flight\Flight\obj\Debug\Flight.csproj.CoreCompileInputs.cache
+G:\South Tech\Visual Studio\Non-Compressed\Flight\Flight\obj\Debug\Flight.exe
+G:\South Tech\Visual Studio\Non-Compressed\Flight\Flight\obj\Debug\Flight.pdb

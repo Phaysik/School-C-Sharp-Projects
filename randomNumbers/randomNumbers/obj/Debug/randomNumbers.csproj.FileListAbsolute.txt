@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\randomNumbers\randomNumbers\bin\Debug\randomNumbers.exe.config
+E:\South Tech\Visual Studio\randomNumbers\randomNumbers\bin\Debug\randomNumbers.exe
+E:\South Tech\Visual Studio\randomNumbers\randomNumbers\bin\Debug\randomNumbers.pdb
+E:\South Tech\Visual Studio\randomNumbers\randomNumbers\obj\Debug\randomNumbers.exe
+E:\South Tech\Visual Studio\randomNumbers\randomNumbers\obj\Debug\randomNumbers.pdb
+E:\South Tech\Visual Studio\randomNumbers\randomNumbers\obj\Debug\randomNumbers.csprojResolveAssemblyReference.cache

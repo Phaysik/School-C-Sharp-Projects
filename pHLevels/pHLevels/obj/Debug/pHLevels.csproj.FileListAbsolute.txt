@@ -1,0 +1,5 @@
+E:\South Tech\Visual Studio\pHLevels\pHLevels\bin\Debug\pHLevels.exe.config
+E:\South Tech\Visual Studio\pHLevels\pHLevels\bin\Debug\pHLevels.exe
+E:\South Tech\Visual Studio\pHLevels\pHLevels\bin\Debug\pHLevels.pdb
+E:\South Tech\Visual Studio\pHLevels\pHLevels\obj\Debug\pHLevels.exe
+E:\South Tech\Visual Studio\pHLevels\pHLevels\obj\Debug\pHLevels.pdb

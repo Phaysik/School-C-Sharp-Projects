@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\IfThings\IfThings\bin\Debug\IfThings.exe.config
+E:\South Tech\Visual Studio\IfThings\IfThings\bin\Debug\IfThings.exe
+E:\South Tech\Visual Studio\IfThings\IfThings\bin\Debug\IfThings.pdb
+E:\South Tech\Visual Studio\IfThings\IfThings\obj\Debug\IfThings.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\IfThings\IfThings\obj\Debug\IfThings.exe
+E:\South Tech\Visual Studio\IfThings\IfThings\obj\Debug\IfThings.pdb

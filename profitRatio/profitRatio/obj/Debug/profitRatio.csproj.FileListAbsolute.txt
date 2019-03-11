@@ -1,0 +1,13 @@
+F:\South Tech\Visual Studio\profitRatio\profitRatio\bin\Debug\profitRatio.exe.config
+F:\South Tech\Visual Studio\profitRatio\profitRatio\bin\Debug\profitRatio.exe
+F:\South Tech\Visual Studio\profitRatio\profitRatio\bin\Debug\profitRatio.pdb
+F:\South Tech\Visual Studio\profitRatio\profitRatio\obj\Debug\profitRatio.csprojAssemblyReference.cache
+F:\South Tech\Visual Studio\profitRatio\profitRatio\obj\Debug\profitRatio.csproj.CoreCompileInputs.cache
+F:\South Tech\Visual Studio\profitRatio\profitRatio\obj\Debug\profitRatio.exe
+F:\South Tech\Visual Studio\profitRatio\profitRatio\obj\Debug\profitRatio.pdb
+E:\South Tech\Visual Studio\profitRatio\profitRatio\bin\Debug\profitRatio.exe.config
+E:\South Tech\Visual Studio\profitRatio\profitRatio\obj\Debug\profitRatio.exe
+E:\South Tech\Visual Studio\profitRatio\profitRatio\obj\Debug\profitRatio.pdb
+E:\South Tech\Visual Studio\profitRatio\profitRatio\bin\Debug\profitRatio.exe
+E:\South Tech\Visual Studio\profitRatio\profitRatio\bin\Debug\profitRatio.pdb
+E:\South Tech\Visual Studio\profitRatio\profitRatio\obj\Debug\profitRatio.csprojResolveAssemblyReference.cache

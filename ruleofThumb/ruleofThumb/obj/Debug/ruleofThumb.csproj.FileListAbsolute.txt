@@ -1,0 +1,5 @@
+C:\Users\710866\Documents\Visual Studio 2015\Projects\ruleofThumb\ruleofThumb\bin\Debug\ruleofThumb.exe.config
+C:\Users\710866\Documents\Visual Studio 2015\Projects\ruleofThumb\ruleofThumb\bin\Debug\ruleofThumb.exe
+C:\Users\710866\Documents\Visual Studio 2015\Projects\ruleofThumb\ruleofThumb\bin\Debug\ruleofThumb.pdb
+C:\Users\710866\Documents\Visual Studio 2015\Projects\ruleofThumb\ruleofThumb\obj\Debug\ruleofThumb.exe
+C:\Users\710866\Documents\Visual Studio 2015\Projects\ruleofThumb\ruleofThumb\obj\Debug\ruleofThumb.pdb

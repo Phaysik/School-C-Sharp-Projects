@@ -1,0 +1,9 @@
+E:\South Tech\Visual Studio\fourNumbers\fourNumbers\bin\Debug\fourNumbers.exe.config
+E:\South Tech\Visual Studio\fourNumbers\fourNumbers\bin\Debug\fourNumbers.exe
+E:\South Tech\Visual Studio\fourNumbers\fourNumbers\bin\Debug\fourNumbers.pdb
+E:\South Tech\Visual Studio\fourNumbers\fourNumbers\obj\Debug\fourNumbers.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\fourNumbers\fourNumbers\obj\Debug\fourNumbers.Form1.resources
+E:\South Tech\Visual Studio\fourNumbers\fourNumbers\obj\Debug\fourNumbers.Properties.Resources.resources
+E:\South Tech\Visual Studio\fourNumbers\fourNumbers\obj\Debug\fourNumbers.csproj.GenerateResource.Cache
+E:\South Tech\Visual Studio\fourNumbers\fourNumbers\obj\Debug\fourNumbers.exe
+E:\South Tech\Visual Studio\fourNumbers\fourNumbers\obj\Debug\fourNumbers.pdb

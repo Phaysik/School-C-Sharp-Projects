@@ -1,0 +1,5 @@
+E:\South Tech\Visual Studio\Loop Sentinel\Loop Sentinel\bin\Debug\Loop Sentinel.exe.config
+E:\South Tech\Visual Studio\Loop Sentinel\Loop Sentinel\bin\Debug\Loop Sentinel.exe
+E:\South Tech\Visual Studio\Loop Sentinel\Loop Sentinel\bin\Debug\Loop Sentinel.pdb
+E:\South Tech\Visual Studio\Loop Sentinel\Loop Sentinel\obj\Debug\Loop Sentinel.exe
+E:\South Tech\Visual Studio\Loop Sentinel\Loop Sentinel\obj\Debug\Loop Sentinel.pdb

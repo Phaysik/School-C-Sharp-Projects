@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\Non-Compressed\travelPlanning\travelPlanning\bin\Debug\travelPlanning.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\travelPlanning\travelPlanning\obj\Debug\travelPlanning.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Non-Compressed\travelPlanning\travelPlanning\bin\Debug\travelPlanning.exe
+E:\South Tech\Visual Studio\Non-Compressed\travelPlanning\travelPlanning\bin\Debug\travelPlanning.pdb
+E:\South Tech\Visual Studio\Non-Compressed\travelPlanning\travelPlanning\obj\Debug\travelPlanning.exe
+E:\South Tech\Visual Studio\Non-Compressed\travelPlanning\travelPlanning\obj\Debug\travelPlanning.pdb

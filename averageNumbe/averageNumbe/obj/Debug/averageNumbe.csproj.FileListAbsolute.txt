@@ -1,0 +1,8 @@
+C:\Users\710866\Documents\Visual Studio 2015\Projects\averageNumbe\averageNumbe\bin\Debug\averageNumbe.exe.config
+C:\Users\710866\Documents\Visual Studio 2015\Projects\averageNumbe\averageNumbe\bin\Debug\averageNumbe.exe
+C:\Users\710866\Documents\Visual Studio 2015\Projects\averageNumbe\averageNumbe\bin\Debug\averageNumbe.pdb
+C:\Users\710866\Documents\Visual Studio 2015\Projects\averageNumbe\averageNumbe\obj\Debug\averageNumbe.Form1.resources
+C:\Users\710866\Documents\Visual Studio 2015\Projects\averageNumbe\averageNumbe\obj\Debug\averageNumbe.Properties.Resources.resources
+C:\Users\710866\Documents\Visual Studio 2015\Projects\averageNumbe\averageNumbe\obj\Debug\averageNumbe.csproj.GenerateResource.Cache
+C:\Users\710866\Documents\Visual Studio 2015\Projects\averageNumbe\averageNumbe\obj\Debug\averageNumbe.exe
+C:\Users\710866\Documents\Visual Studio 2015\Projects\averageNumbe\averageNumbe\obj\Debug\averageNumbe.pdb

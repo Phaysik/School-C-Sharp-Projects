@@ -1,0 +1,10 @@
+C:\Users\Phaysik\source\repos\Area\Area\obj\Debug\Area.csprojAssemblyReference.cache
+C:\Users\Phaysik\source\repos\Area\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+C:\Users\Phaysik\source\repos\Area\Area\bin\Debug\Area.exe.config
+C:\Users\Phaysik\source\repos\Area\Area\bin\Debug\Area.exe
+C:\Users\Phaysik\source\repos\Area\Area\bin\Debug\Area.pdb
+C:\Users\Phaysik\source\repos\Area\Area\obj\Debug\Area.exe
+C:\Users\Phaysik\source\repos\Area\Area\obj\Debug\Area.pdb
+E:\South Tech\Visual Studio\Area\Area\bin\Debug\Area.exe.config
+E:\South Tech\Visual Studio\Area\Area\obj\Debug\Area.exe
+E:\South Tech\Visual Studio\Area\Area\obj\Debug\Area.pdb

@@ -1,0 +1,9 @@
+E:\South Tech\Visual Studio\Non-Compressed\InputForm\InputForm\bin\Debug\InputForm.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\InputForm\InputForm\bin\Debug\InputForm.exe
+E:\South Tech\Visual Studio\Non-Compressed\InputForm\InputForm\bin\Debug\InputForm.pdb
+E:\South Tech\Visual Studio\Non-Compressed\InputForm\InputForm\obj\Debug\InputForm.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Non-Compressed\InputForm\InputForm\obj\Debug\InputForm.Form1.resources
+E:\South Tech\Visual Studio\Non-Compressed\InputForm\InputForm\obj\Debug\InputForm.Properties.Resources.resources
+E:\South Tech\Visual Studio\Non-Compressed\InputForm\InputForm\obj\Debug\InputForm.csproj.GenerateResource.Cache
+E:\South Tech\Visual Studio\Non-Compressed\InputForm\InputForm\obj\Debug\InputForm.exe
+E:\South Tech\Visual Studio\Non-Compressed\InputForm\InputForm\obj\Debug\InputForm.pdb

@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\Non-Compressed\CarpetCalculator\CarpetCalculator\bin\Debug\CarpetCalculator.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Non-Compressed\CarpetCalculator\CarpetCalculator\bin\Debug\CarpetCalculator.exe
+E:\South Tech\Visual Studio\Non-Compressed\CarpetCalculator\CarpetCalculator\bin\Debug\CarpetCalculator.pdb
+E:\South Tech\Visual Studio\Non-Compressed\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.exe
+E:\South Tech\Visual Studio\Non-Compressed\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.pdb

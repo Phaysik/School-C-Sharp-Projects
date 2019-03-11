@@ -1,0 +1,5 @@
+E:\South Tech\Visual Studio\chapter3MathThings\chapter3MathThings\bin\Debug\chapter3MathThings.exe.config
+E:\South Tech\Visual Studio\chapter3MathThings\chapter3MathThings\bin\Debug\chapter3MathThings.exe
+E:\South Tech\Visual Studio\chapter3MathThings\chapter3MathThings\bin\Debug\chapter3MathThings.pdb
+E:\South Tech\Visual Studio\chapter3MathThings\chapter3MathThings\obj\Debug\chapter3MathThings.exe
+E:\South Tech\Visual Studio\chapter3MathThings\chapter3MathThings\obj\Debug\chapter3MathThings.pdb

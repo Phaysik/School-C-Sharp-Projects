@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\Shuffle Cards\Shuffle Cards\bin\Debug\Shuffle Cards.exe.config
+E:\South Tech\Visual Studio\Shuffle Cards\Shuffle Cards\bin\Debug\Shuffle Cards.exe
+E:\South Tech\Visual Studio\Shuffle Cards\Shuffle Cards\bin\Debug\Shuffle Cards.pdb
+E:\South Tech\Visual Studio\Shuffle Cards\Shuffle Cards\obj\Debug\Shuffle Cards.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Shuffle Cards\Shuffle Cards\obj\Debug\Shuffle Cards.exe
+E:\South Tech\Visual Studio\Shuffle Cards\Shuffle Cards\obj\Debug\Shuffle Cards.pdb

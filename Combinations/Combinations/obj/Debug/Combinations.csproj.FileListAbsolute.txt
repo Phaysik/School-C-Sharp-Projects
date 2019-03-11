@@ -1,0 +1,5 @@
+E:\South Tech\Visual Studio\Combinations\Combinations\bin\Debug\Combinations.exe.config
+E:\South Tech\Visual Studio\Combinations\Combinations\bin\Debug\Combinations.exe
+E:\South Tech\Visual Studio\Combinations\Combinations\bin\Debug\Combinations.pdb
+E:\South Tech\Visual Studio\Combinations\Combinations\obj\Debug\Combinations.exe
+E:\South Tech\Visual Studio\Combinations\Combinations\obj\Debug\Combinations.pdb

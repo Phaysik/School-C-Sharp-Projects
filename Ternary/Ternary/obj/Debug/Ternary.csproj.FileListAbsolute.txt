@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\Ternary\Ternary\bin\Debug\Ternary.exe.config
+E:\South Tech\Visual Studio\Ternary\Ternary\bin\Debug\Ternary.exe
+E:\South Tech\Visual Studio\Ternary\Ternary\bin\Debug\Ternary.pdb
+E:\South Tech\Visual Studio\Ternary\Ternary\obj\Debug\Ternary.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Ternary\Ternary\obj\Debug\Ternary.exe
+E:\South Tech\Visual Studio\Ternary\Ternary\obj\Debug\Ternary.pdb

@@ -1,0 +1,8 @@
+C:\Users\710866\Documents\Visual Studio 2015\Projects\retailPrice\retailPrice\bin\Debug\retailPrice.exe.config
+C:\Users\710866\Documents\Visual Studio 2015\Projects\retailPrice\retailPrice\bin\Debug\retailPrice.exe
+C:\Users\710866\Documents\Visual Studio 2015\Projects\retailPrice\retailPrice\bin\Debug\retailPrice.pdb
+C:\Users\710866\Documents\Visual Studio 2015\Projects\retailPrice\retailPrice\obj\Debug\retailPrice.exe
+C:\Users\710866\Documents\Visual Studio 2015\Projects\retailPrice\retailPrice\obj\Debug\retailPrice.pdb
+E:\South Tech\Visual Studio\retailPrice\retailPrice\bin\Debug\retailPrice.exe.config
+E:\South Tech\Visual Studio\retailPrice\retailPrice\obj\Debug\retailPrice.exe
+E:\South Tech\Visual Studio\retailPrice\retailPrice\obj\Debug\retailPrice.pdb

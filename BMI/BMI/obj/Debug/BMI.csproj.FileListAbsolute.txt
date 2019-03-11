@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\BMI\BMI\bin\Debug\BMI.exe.config
+E:\South Tech\Visual Studio\BMI\BMI\bin\Debug\BMI.exe
+E:\South Tech\Visual Studio\BMI\BMI\bin\Debug\BMI.pdb
+E:\South Tech\Visual Studio\BMI\BMI\obj\Debug\BMI.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\BMI\BMI\obj\Debug\BMI.exe
+E:\South Tech\Visual Studio\BMI\BMI\obj\Debug\BMI.pdb

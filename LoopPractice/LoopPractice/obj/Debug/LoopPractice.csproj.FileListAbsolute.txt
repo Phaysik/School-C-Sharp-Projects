@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\LoopPractice\LoopPractice\bin\Debug\LoopPractice.exe.config
+E:\South Tech\Visual Studio\LoopPractice\LoopPractice\bin\Debug\LoopPractice.exe
+E:\South Tech\Visual Studio\LoopPractice\LoopPractice\bin\Debug\LoopPractice.pdb
+E:\South Tech\Visual Studio\LoopPractice\LoopPractice\obj\Debug\LoopPractice.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\LoopPractice\LoopPractice\obj\Debug\LoopPractice.exe
+E:\South Tech\Visual Studio\LoopPractice\LoopPractice\obj\Debug\LoopPractice.pdb

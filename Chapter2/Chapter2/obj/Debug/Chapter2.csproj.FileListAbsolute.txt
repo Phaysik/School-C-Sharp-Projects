@@ -1,0 +1,6 @@
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Chapter2\Chapter2\bin\Debug\Chapter2.exe.config
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Chapter2\Chapter2\bin\Debug\Chapter2.exe
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Chapter2\Chapter2\bin\Debug\Chapter2.pdb
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Chapter2\Chapter2\obj\Debug\Chapter2.csprojResolveAssemblyReference.cache
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Chapter2\Chapter2\obj\Debug\Chapter2.exe
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Chapter2\Chapter2\obj\Debug\Chapter2.pdb

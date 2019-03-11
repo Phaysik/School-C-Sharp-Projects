@@ -1,0 +1,5 @@
+E:\South Tech\Visual Studio\MorearrayEamples\MorearrayEamples\bin\Debug\MorearrayEamples.exe.config
+E:\South Tech\Visual Studio\MorearrayEamples\MorearrayEamples\bin\Debug\MorearrayEamples.exe
+E:\South Tech\Visual Studio\MorearrayEamples\MorearrayEamples\bin\Debug\MorearrayEamples.pdb
+E:\South Tech\Visual Studio\MorearrayEamples\MorearrayEamples\obj\Debug\MorearrayEamples.exe
+E:\South Tech\Visual Studio\MorearrayEamples\MorearrayEamples\obj\Debug\MorearrayEamples.pdb

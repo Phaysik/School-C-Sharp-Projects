@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\Non-Compressed\TripClass\TripClass\bin\Debug\TripClass.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\TripClass\TripClass\bin\Debug\TripClass.exe
+E:\South Tech\Visual Studio\Non-Compressed\TripClass\TripClass\bin\Debug\TripClass.pdb
+E:\South Tech\Visual Studio\Non-Compressed\TripClass\TripClass\obj\Debug\TripClass.exe
+E:\South Tech\Visual Studio\Non-Compressed\TripClass\TripClass\obj\Debug\TripClass.pdb
+E:\South Tech\Visual Studio\Non-Compressed\TripClass\TripClass\obj\Debug\TripClass.csprojResolveAssemblyReference.cache

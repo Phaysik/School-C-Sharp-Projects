@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\Non-Compressed\Output\Output\bin\Debug\Output.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\Output\Output\bin\Debug\Output.exe
+E:\South Tech\Visual Studio\Non-Compressed\Output\Output\bin\Debug\Output.pdb
+E:\South Tech\Visual Studio\Non-Compressed\Output\Output\obj\Debug\Output.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Non-Compressed\Output\Output\obj\Debug\Output.exe
+E:\South Tech\Visual Studio\Non-Compressed\Output\Output\obj\Debug\Output.pdb

@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\Chapter3Examples\Chapter3Examples\bin\Debug\Chapter3Examples.exe.config
+E:\South Tech\Visual Studio\Chapter3Examples\Chapter3Examples\obj\Debug\Chapter3Examples.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Chapter3Examples\Chapter3Examples\bin\Debug\Chapter3Examples.exe
+E:\South Tech\Visual Studio\Chapter3Examples\Chapter3Examples\bin\Debug\Chapter3Examples.pdb
+E:\South Tech\Visual Studio\Chapter3Examples\Chapter3Examples\obj\Debug\Chapter3Examples.exe
+E:\South Tech\Visual Studio\Chapter3Examples\Chapter3Examples\obj\Debug\Chapter3Examples.pdb

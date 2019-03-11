@@ -1,0 +1,7 @@
+E:\South Tech\Visual Studio\Longest Sequence\Longest Sequence\bin\Debug\Longest Sequence.exe.config
+E:\South Tech\Visual Studio\Longest Sequence\Longest Sequence\bin\Debug\Longest Sequence.exe
+E:\South Tech\Visual Studio\Longest Sequence\Longest Sequence\bin\Debug\Longest Sequence.pdb
+E:\South Tech\Visual Studio\Longest Sequence\Longest Sequence\obj\Debug\Longest Sequence.exe
+E:\South Tech\Visual Studio\Longest Sequence\Longest Sequence\obj\Debug\Longest Sequence.pdb
+E:\South Tech\Visual Studio\Longest Sequence\Longest Sequence\obj\Debug\Longest Sequence.csprojAssemblyReference.cache
+E:\South Tech\Visual Studio\Longest Sequence\Longest Sequence\obj\Debug\Longest Sequence.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+E:\South Tech\Visual Studio\Bar Chart\Bar Chart\bin\Debug\Bar Chart.exe.config
+E:\South Tech\Visual Studio\Bar Chart\Bar Chart\bin\Debug\Bar Chart.exe
+E:\South Tech\Visual Studio\Bar Chart\Bar Chart\bin\Debug\Bar Chart.pdb
+E:\South Tech\Visual Studio\Bar Chart\Bar Chart\obj\Debug\Bar Chart.exe
+E:\South Tech\Visual Studio\Bar Chart\Bar Chart\obj\Debug\Bar Chart.pdb
+G:\South Tech\Visual Studio\Bar Chart\Bar Chart\bin\Debug\Bar Chart.exe.config
+G:\South Tech\Visual Studio\Bar Chart\Bar Chart\bin\Debug\Bar Chart.exe
+G:\South Tech\Visual Studio\Bar Chart\Bar Chart\bin\Debug\Bar Chart.pdb
+G:\South Tech\Visual Studio\Bar Chart\Bar Chart\obj\Debug\Bar Chart.csprojAssemblyReference.cache
+G:\South Tech\Visual Studio\Bar Chart\Bar Chart\obj\Debug\Bar Chart.csproj.CoreCompileInputs.cache
+G:\South Tech\Visual Studio\Bar Chart\Bar Chart\obj\Debug\Bar Chart.exe
+G:\South Tech\Visual Studio\Bar Chart\Bar Chart\obj\Debug\Bar Chart.pdb
+E:\South Tech\Visual Studio\Bar Chart\Bar Chart\obj\Debug\Bar Chart.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Non-Compressed\Bar Chart\Bar Chart\bin\Debug\Bar Chart.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\Bar Chart\Bar Chart\obj\Debug\Bar Chart.exe
+E:\South Tech\Visual Studio\Non-Compressed\Bar Chart\Bar Chart\obj\Debug\Bar Chart.pdb

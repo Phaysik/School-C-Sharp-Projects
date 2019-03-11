@@ -1,0 +1,5 @@
+C:\Users\710866\Documents\Visual Studio 2015\Projects\readInput\readInput\bin\Debug\readInput.exe.config
+C:\Users\710866\Documents\Visual Studio 2015\Projects\readInput\readInput\bin\Debug\readInput.exe
+C:\Users\710866\Documents\Visual Studio 2015\Projects\readInput\readInput\bin\Debug\readInput.pdb
+C:\Users\710866\Documents\Visual Studio 2015\Projects\readInput\readInput\obj\Debug\readInput.exe
+C:\Users\710866\Documents\Visual Studio 2015\Projects\readInput\readInput\obj\Debug\readInput.pdb

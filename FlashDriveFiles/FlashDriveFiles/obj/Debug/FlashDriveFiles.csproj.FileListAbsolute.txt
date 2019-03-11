@@ -1,0 +1,14 @@
+C:\Users\710866\Desktop\FlashDriveFiles\FlashDriveFiles\bin\Debug\FlashDriveFiles.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\FlashDriveFiles\FlashDriveFiles\bin\Debug\FlashDriveFiles.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\FlashDriveFiles\FlashDriveFiles\bin\Debug\FlashDriveFiles.exe
+E:\South Tech\Visual Studio\Non-Compressed\FlashDriveFiles\FlashDriveFiles\bin\Debug\FlashDriveFiles.pdb
+E:\South Tech\Visual Studio\Non-Compressed\FlashDriveFiles\FlashDriveFiles\obj\Debug\FlashDriveFiles.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Non-Compressed\FlashDriveFiles\FlashDriveFiles\obj\Debug\FlashDriveFiles.exe
+E:\South Tech\Visual Studio\Non-Compressed\FlashDriveFiles\FlashDriveFiles\obj\Debug\FlashDriveFiles.pdb
+G:\South Tech\Visual Studio\Non-Compressed\FlashDriveFiles\FlashDriveFiles\bin\Debug\FlashDriveFiles.exe.config
+G:\South Tech\Visual Studio\Non-Compressed\FlashDriveFiles\FlashDriveFiles\bin\Debug\FlashDriveFiles.exe
+G:\South Tech\Visual Studio\Non-Compressed\FlashDriveFiles\FlashDriveFiles\bin\Debug\FlashDriveFiles.pdb
+G:\South Tech\Visual Studio\Non-Compressed\FlashDriveFiles\FlashDriveFiles\obj\Debug\FlashDriveFiles.csprojAssemblyReference.cache
+G:\South Tech\Visual Studio\Non-Compressed\FlashDriveFiles\FlashDriveFiles\obj\Debug\FlashDriveFiles.csproj.CoreCompileInputs.cache
+G:\South Tech\Visual Studio\Non-Compressed\FlashDriveFiles\FlashDriveFiles\obj\Debug\FlashDriveFiles.exe
+G:\South Tech\Visual Studio\Non-Compressed\FlashDriveFiles\FlashDriveFiles\obj\Debug\FlashDriveFiles.pdb

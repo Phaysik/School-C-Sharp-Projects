@@ -1,0 +1,5 @@
+E:\South Tech\Visual Studio\Non-Compressed\TextReader\TextReader\bin\Debug\TextReader.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\TextReader\TextReader\bin\Debug\TextReader.exe
+E:\South Tech\Visual Studio\Non-Compressed\TextReader\TextReader\bin\Debug\TextReader.pdb
+E:\South Tech\Visual Studio\Non-Compressed\TextReader\TextReader\obj\Debug\TextReader.exe
+E:\South Tech\Visual Studio\Non-Compressed\TextReader\TextReader\obj\Debug\TextReader.pdb

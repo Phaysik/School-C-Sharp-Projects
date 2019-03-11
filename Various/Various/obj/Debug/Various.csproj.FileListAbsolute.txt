@@ -1,0 +1,5 @@
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Various\Various\bin\Debug\Various.exe.config
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Various\Various\bin\Debug\Various.exe
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Various\Various\bin\Debug\Various.pdb
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Various\Various\obj\Debug\Various.exe
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Various\Various\obj\Debug\Various.pdb

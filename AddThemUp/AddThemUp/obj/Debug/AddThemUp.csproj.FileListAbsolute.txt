@@ -1,0 +1,10 @@
+F:\South Tech\Visual Studio\AddThemUp\AddThemUp\bin\Debug\AddThemUp.exe.config
+F:\South Tech\Visual Studio\AddThemUp\AddThemUp\bin\Debug\AddThemUp.exe
+F:\South Tech\Visual Studio\AddThemUp\AddThemUp\bin\Debug\AddThemUp.pdb
+F:\South Tech\Visual Studio\AddThemUp\AddThemUp\obj\Debug\AddThemUp.csprojAssemblyReference.cache
+F:\South Tech\Visual Studio\AddThemUp\AddThemUp\obj\Debug\AddThemUp.Form1.resources
+F:\South Tech\Visual Studio\AddThemUp\AddThemUp\obj\Debug\AddThemUp.Properties.Resources.resources
+F:\South Tech\Visual Studio\AddThemUp\AddThemUp\obj\Debug\AddThemUp.csproj.GenerateResource.cache
+F:\South Tech\Visual Studio\AddThemUp\AddThemUp\obj\Debug\AddThemUp.csproj.CoreCompileInputs.cache
+F:\South Tech\Visual Studio\AddThemUp\AddThemUp\obj\Debug\AddThemUp.exe
+F:\South Tech\Visual Studio\AddThemUp\AddThemUp\obj\Debug\AddThemUp.pdb

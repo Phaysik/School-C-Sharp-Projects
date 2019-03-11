@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\Markup\Markup\bin\Debug\Markup.exe.config
+E:\South Tech\Visual Studio\Markup\Markup\bin\Debug\Markup.exe
+E:\South Tech\Visual Studio\Markup\Markup\bin\Debug\Markup.pdb
+E:\South Tech\Visual Studio\Markup\Markup\obj\Debug\Markup.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Markup\Markup\obj\Debug\Markup.exe
+E:\South Tech\Visual Studio\Markup\Markup\obj\Debug\Markup.pdb

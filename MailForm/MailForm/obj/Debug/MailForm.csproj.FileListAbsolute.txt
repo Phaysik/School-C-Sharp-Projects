@@ -1,0 +1,9 @@
+C:\Users\710866\Documents\Visual Studio 2015\Projects\MailForm\MailForm\bin\Debug\MailForm.exe.config
+C:\Users\710866\Documents\Visual Studio 2015\Projects\MailForm\MailForm\bin\Debug\MailForm.exe
+C:\Users\710866\Documents\Visual Studio 2015\Projects\MailForm\MailForm\bin\Debug\MailForm.pdb
+C:\Users\710866\Documents\Visual Studio 2015\Projects\MailForm\MailForm\obj\Debug\MailForm.csprojResolveAssemblyReference.cache
+C:\Users\710866\Documents\Visual Studio 2015\Projects\MailForm\MailForm\obj\Debug\MailForm.Form1.resources
+C:\Users\710866\Documents\Visual Studio 2015\Projects\MailForm\MailForm\obj\Debug\MailForm.Properties.Resources.resources
+C:\Users\710866\Documents\Visual Studio 2015\Projects\MailForm\MailForm\obj\Debug\MailForm.csproj.GenerateResource.Cache
+C:\Users\710866\Documents\Visual Studio 2015\Projects\MailForm\MailForm\obj\Debug\MailForm.exe
+C:\Users\710866\Documents\Visual Studio 2015\Projects\MailForm\MailForm\obj\Debug\MailForm.pdb

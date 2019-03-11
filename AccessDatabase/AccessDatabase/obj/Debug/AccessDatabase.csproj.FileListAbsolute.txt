@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\Non-Compressed\AccessDatabase\AccessDatabase\bin\Debug\AccessDatabase.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\AccessDatabase\AccessDatabase\obj\Debug\AccessDatabase.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Non-Compressed\AccessDatabase\AccessDatabase\bin\Debug\AccessDatabase.exe
+E:\South Tech\Visual Studio\Non-Compressed\AccessDatabase\AccessDatabase\bin\Debug\AccessDatabase.pdb
+E:\South Tech\Visual Studio\Non-Compressed\AccessDatabase\AccessDatabase\obj\Debug\AccessDatabase.exe
+E:\South Tech\Visual Studio\Non-Compressed\AccessDatabase\AccessDatabase\obj\Debug\AccessDatabase.pdb

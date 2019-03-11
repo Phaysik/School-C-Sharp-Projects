@@ -1,0 +1,7 @@
+F:\South Tech\Visual Studio\dreambig\dreambig\bin\Debug\dreambig.exe.config
+F:\South Tech\Visual Studio\dreambig\dreambig\bin\Debug\dreambig.exe
+F:\South Tech\Visual Studio\dreambig\dreambig\bin\Debug\dreambig.pdb
+F:\South Tech\Visual Studio\dreambig\dreambig\obj\Debug\dreambig.csprojAssemblyReference.cache
+F:\South Tech\Visual Studio\dreambig\dreambig\obj\Debug\dreambig.csproj.CoreCompileInputs.cache
+F:\South Tech\Visual Studio\dreambig\dreambig\obj\Debug\dreambig.exe
+F:\South Tech\Visual Studio\dreambig\dreambig\obj\Debug\dreambig.pdb

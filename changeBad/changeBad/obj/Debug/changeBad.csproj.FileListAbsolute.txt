@@ -1,0 +1,7 @@
+F:\South Tech\Visual Studio\changeBad\changeBad\bin\Debug\changeBad.exe.config
+F:\South Tech\Visual Studio\changeBad\changeBad\bin\Debug\changeBad.exe
+F:\South Tech\Visual Studio\changeBad\changeBad\bin\Debug\changeBad.pdb
+F:\South Tech\Visual Studio\changeBad\changeBad\obj\Debug\changeBad.csprojAssemblyReference.cache
+F:\South Tech\Visual Studio\changeBad\changeBad\obj\Debug\changeBad.csproj.CoreCompileInputs.cache
+F:\South Tech\Visual Studio\changeBad\changeBad\obj\Debug\changeBad.exe
+F:\South Tech\Visual Studio\changeBad\changeBad\obj\Debug\changeBad.pdb

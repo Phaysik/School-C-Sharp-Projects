@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\IonReality\IonReality\bin\Debug\IonReality.exe.config
+E:\South Tech\Visual Studio\IonReality\IonReality\bin\Debug\IonReality.exe
+E:\South Tech\Visual Studio\IonReality\IonReality\bin\Debug\IonReality.pdb
+E:\South Tech\Visual Studio\IonReality\IonReality\obj\Debug\IonReality.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\IonReality\IonReality\obj\Debug\IonReality.exe
+E:\South Tech\Visual Studio\IonReality\IonReality\obj\Debug\IonReality.pdb

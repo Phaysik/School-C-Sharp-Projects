@@ -1,0 +1,13 @@
+E:\South Tech\Visual Studio\Chapter 5 Test\Chapter 5 Test\bin\Debug\Chapter 5 Test.exe.config
+E:\South Tech\Visual Studio\Chapter 5 Test\Chapter 5 Test\bin\Debug\Chapter 5 Test.exe
+E:\South Tech\Visual Studio\Chapter 5 Test\Chapter 5 Test\bin\Debug\Chapter 5 Test.pdb
+E:\South Tech\Visual Studio\Chapter 5 Test\Chapter 5 Test\obj\Debug\Chapter 5 Test.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Chapter 5 Test\Chapter 5 Test\obj\Debug\Chapter 5 Test.exe
+E:\South Tech\Visual Studio\Chapter 5 Test\Chapter 5 Test\obj\Debug\Chapter 5 Test.pdb
+F:\South Tech\Visual Studio\Chapter 5 Test\Chapter 5 Test\bin\Debug\Chapter 5 Test.exe.config
+F:\South Tech\Visual Studio\Chapter 5 Test\Chapter 5 Test\bin\Debug\Chapter 5 Test.exe
+F:\South Tech\Visual Studio\Chapter 5 Test\Chapter 5 Test\bin\Debug\Chapter 5 Test.pdb
+F:\South Tech\Visual Studio\Chapter 5 Test\Chapter 5 Test\obj\Debug\Chapter 5 Test.csprojAssemblyReference.cache
+F:\South Tech\Visual Studio\Chapter 5 Test\Chapter 5 Test\obj\Debug\Chapter 5 Test.csproj.CoreCompileInputs.cache
+F:\South Tech\Visual Studio\Chapter 5 Test\Chapter 5 Test\obj\Debug\Chapter 5 Test.exe
+F:\South Tech\Visual Studio\Chapter 5 Test\Chapter 5 Test\obj\Debug\Chapter 5 Test.pdb

@@ -1,0 +1,9 @@
+C:\Users\710866\Documents\Visual Studio 2015\Projects\ruleofThumb\sunProject\bin\Debug\sunProject.exe.config
+C:\Users\710866\Documents\Visual Studio 2015\Projects\ruleofThumb\sunProject\bin\Debug\sunProject.exe
+C:\Users\710866\Documents\Visual Studio 2015\Projects\ruleofThumb\sunProject\bin\Debug\sunProject.pdb
+C:\Users\710866\Documents\Visual Studio 2015\Projects\ruleofThumb\sunProject\obj\Debug\sunProject.csprojResolveAssemblyReference.cache
+C:\Users\710866\Documents\Visual Studio 2015\Projects\ruleofThumb\sunProject\obj\Debug\sunProject.Form1.resources
+C:\Users\710866\Documents\Visual Studio 2015\Projects\ruleofThumb\sunProject\obj\Debug\sunProject.Properties.Resources.resources
+C:\Users\710866\Documents\Visual Studio 2015\Projects\ruleofThumb\sunProject\obj\Debug\sunProject.csproj.GenerateResource.Cache
+C:\Users\710866\Documents\Visual Studio 2015\Projects\ruleofThumb\sunProject\obj\Debug\sunProject.exe
+C:\Users\710866\Documents\Visual Studio 2015\Projects\ruleofThumb\sunProject\obj\Debug\sunProject.pdb

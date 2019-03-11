@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\Alignment\Alignment\bin\Debug\Alignment.exe.config
+E:\South Tech\Visual Studio\Alignment\Alignment\bin\Debug\Alignment.exe
+E:\South Tech\Visual Studio\Alignment\Alignment\bin\Debug\Alignment.pdb
+E:\South Tech\Visual Studio\Alignment\Alignment\obj\Debug\Alignment.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Alignment\Alignment\obj\Debug\Alignment.exe
+E:\South Tech\Visual Studio\Alignment\Alignment\obj\Debug\Alignment.pdb

@@ -1,0 +1,13 @@
+Kurt Smith|88|99|66|
+Sherri Hopkins|75|65|95|
+Tim Bead|45|56|90|
+Janie Gray|87|88|67|
+Ken Smith|60|88|71
+Randolph Jascico|76|30|68
+Tyler Osendorf|67|88|76
+Choo Ching|98|87|92
+Al Hirt|-45|89|57
+Susan Hamlet|85||79
+|89|0|69
+David Mason|p4|99|100
+Trevor Skain|3000|78|93

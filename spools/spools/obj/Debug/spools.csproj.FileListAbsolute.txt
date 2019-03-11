@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\spools\spools\bin\Debug\spools.exe.config
+E:\South Tech\Visual Studio\spools\spools\bin\Debug\spools.exe
+E:\South Tech\Visual Studio\spools\spools\bin\Debug\spools.pdb
+E:\South Tech\Visual Studio\spools\spools\obj\Debug\spools.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\spools\spools\obj\Debug\spools.exe
+E:\South Tech\Visual Studio\spools\spools\obj\Debug\spools.pdb

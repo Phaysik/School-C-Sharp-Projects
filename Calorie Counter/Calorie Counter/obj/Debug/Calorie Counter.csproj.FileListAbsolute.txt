@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.exe.config
+E:\South Tech\Visual Studio\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.exe
+E:\South Tech\Visual Studio\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.pdb
+E:\South Tech\Visual Studio\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.exe
+E:\South Tech\Visual Studio\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.pdb

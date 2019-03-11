@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\PetAdvice\PetAdvice\bin\Debug\PetAdvice.exe.config
+E:\South Tech\Visual Studio\PetAdvice\PetAdvice\bin\Debug\PetAdvice.exe
+E:\South Tech\Visual Studio\PetAdvice\PetAdvice\bin\Debug\PetAdvice.pdb
+E:\South Tech\Visual Studio\PetAdvice\PetAdvice\obj\Debug\PetAdvice.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\PetAdvice\PetAdvice\obj\Debug\PetAdvice.exe
+E:\South Tech\Visual Studio\PetAdvice\PetAdvice\obj\Debug\PetAdvice.pdb

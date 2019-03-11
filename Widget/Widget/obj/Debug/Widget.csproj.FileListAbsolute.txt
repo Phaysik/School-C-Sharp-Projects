@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\Non-Compressed\Widget\Widget\bin\Debug\Widget.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\Widget\Widget\bin\Debug\Widget.exe
+E:\South Tech\Visual Studio\Non-Compressed\Widget\Widget\bin\Debug\Widget.pdb
+E:\South Tech\Visual Studio\Non-Compressed\Widget\Widget\obj\Debug\Widget.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Non-Compressed\Widget\Widget\obj\Debug\Widget.exe
+E:\South Tech\Visual Studio\Non-Compressed\Widget\Widget\obj\Debug\Widget.pdb

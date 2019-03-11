@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\ArithmeticProgression\ArithmeticProgression\bin\Debug\ArithmeticProgression.exe.config
+E:\South Tech\Visual Studio\ArithmeticProgression\ArithmeticProgression\obj\Debug\ArithmeticProgression.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\ArithmeticProgression\ArithmeticProgression\bin\Debug\ArithmeticProgression.exe
+E:\South Tech\Visual Studio\ArithmeticProgression\ArithmeticProgression\bin\Debug\ArithmeticProgression.pdb
+E:\South Tech\Visual Studio\ArithmeticProgression\ArithmeticProgression\obj\Debug\ArithmeticProgression.exe
+E:\South Tech\Visual Studio\ArithmeticProgression\ArithmeticProgression\obj\Debug\ArithmeticProgression.pdb

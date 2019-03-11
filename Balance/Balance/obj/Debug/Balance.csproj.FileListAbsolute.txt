@@ -1,0 +1,12 @@
+E:\South Tech\Visual Studio\Balance\Balance\bin\Debug\Balance.exe.config
+E:\South Tech\Visual Studio\Balance\Balance\bin\Debug\Balance.exe
+E:\South Tech\Visual Studio\Balance\Balance\bin\Debug\Balance.pdb
+E:\South Tech\Visual Studio\Balance\Balance\obj\Debug\Balance.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Balance\Balance\obj\Debug\Balance.exe
+E:\South Tech\Visual Studio\Balance\Balance\obj\Debug\Balance.pdb
+E:\South Tech\Visual Studio\Non-Compressed\Balance\Balance\bin\Debug\Balance.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\Balance\Balance\obj\Debug\Balance.exe
+E:\South Tech\Visual Studio\Non-Compressed\Balance\Balance\obj\Debug\Balance.pdb
+E:\South Tech\Visual Studio\Non-Compressed\Balance\Balance\bin\Debug\Balance.exe
+E:\South Tech\Visual Studio\Non-Compressed\Balance\Balance\bin\Debug\Balance.pdb
+E:\South Tech\Visual Studio\Non-Compressed\Balance\Balance\obj\Debug\Balance.csprojResolveAssemblyReference.cache

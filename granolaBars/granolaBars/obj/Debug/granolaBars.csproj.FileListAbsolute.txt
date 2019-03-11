@@ -1,0 +1,5 @@
+E:\South Tech\Visual Studio\granolaBars\granolaBars\bin\Debug\granolaBars.exe.config
+E:\South Tech\Visual Studio\granolaBars\granolaBars\bin\Debug\granolaBars.exe
+E:\South Tech\Visual Studio\granolaBars\granolaBars\bin\Debug\granolaBars.pdb
+E:\South Tech\Visual Studio\granolaBars\granolaBars\obj\Debug\granolaBars.exe
+E:\South Tech\Visual Studio\granolaBars\granolaBars\obj\Debug\granolaBars.pdb

@@ -1,0 +1,13 @@
+E:\South Tech\Visual Studio\Non-Compressed\Internet Alphabet\Internet Alphabet\bin\Debug\Internet Alphabet.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\Internet Alphabet\Internet Alphabet\bin\Debug\Internet Alphabet.exe
+E:\South Tech\Visual Studio\Non-Compressed\Internet Alphabet\Internet Alphabet\bin\Debug\Internet Alphabet.pdb
+E:\South Tech\Visual Studio\Non-Compressed\Internet Alphabet\Internet Alphabet\obj\Debug\Internet Alphabet.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Non-Compressed\Internet Alphabet\Internet Alphabet\obj\Debug\Internet Alphabet.exe
+E:\South Tech\Visual Studio\Non-Compressed\Internet Alphabet\Internet Alphabet\obj\Debug\Internet Alphabet.pdb
+G:\South Tech\Visual Studio\C#\Non-Compressed\Internet Alphabet\Internet Alphabet\bin\Debug\Internet Alphabet.exe.config
+G:\South Tech\Visual Studio\C#\Non-Compressed\Internet Alphabet\Internet Alphabet\bin\Debug\Internet Alphabet.exe
+G:\South Tech\Visual Studio\C#\Non-Compressed\Internet Alphabet\Internet Alphabet\bin\Debug\Internet Alphabet.pdb
+G:\South Tech\Visual Studio\C#\Non-Compressed\Internet Alphabet\Internet Alphabet\obj\Debug\Internet Alphabet.csprojAssemblyReference.cache
+G:\South Tech\Visual Studio\C#\Non-Compressed\Internet Alphabet\Internet Alphabet\obj\Debug\Internet Alphabet.csproj.CoreCompileInputs.cache
+G:\South Tech\Visual Studio\C#\Non-Compressed\Internet Alphabet\Internet Alphabet\obj\Debug\Internet Alphabet.exe
+G:\South Tech\Visual Studio\C#\Non-Compressed\Internet Alphabet\Internet Alphabet\obj\Debug\Internet Alphabet.pdb

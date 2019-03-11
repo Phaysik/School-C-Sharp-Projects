@@ -1,0 +1,9 @@
+F:\South Tech\Visual Studio\VowelorConsonant\VowelorConsonant\bin\Debug\VowelorConsonant.exe.config
+F:\South Tech\Visual Studio\VowelorConsonant\VowelorConsonant\bin\Debug\VowelorConsonant.exe
+F:\South Tech\Visual Studio\VowelorConsonant\VowelorConsonant\bin\Debug\VowelorConsonant.pdb
+F:\South Tech\Visual Studio\VowelorConsonant\VowelorConsonant\obj\Debug\VowelorConsonant.csproj.CoreCompileInputs.cache
+F:\South Tech\Visual Studio\VowelorConsonant\VowelorConsonant\obj\Debug\VowelorConsonant.exe
+F:\South Tech\Visual Studio\VowelorConsonant\VowelorConsonant\obj\Debug\VowelorConsonant.pdb
+E:\South Tech\Visual Studio\VowelorConsonant\VowelorConsonant\bin\Debug\VowelorConsonant.exe.config
+E:\South Tech\Visual Studio\VowelorConsonant\VowelorConsonant\obj\Debug\VowelorConsonant.exe
+E:\South Tech\Visual Studio\VowelorConsonant\VowelorConsonant\obj\Debug\VowelorConsonant.pdb

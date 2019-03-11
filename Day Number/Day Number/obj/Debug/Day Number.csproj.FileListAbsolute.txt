@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\Day Number\Day Number\bin\Debug\Day Number.exe.config
+E:\South Tech\Visual Studio\Day Number\Day Number\bin\Debug\Day Number.exe
+E:\South Tech\Visual Studio\Day Number\Day Number\bin\Debug\Day Number.pdb
+E:\South Tech\Visual Studio\Day Number\Day Number\obj\Debug\Day Number.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Day Number\Day Number\obj\Debug\Day Number.exe
+E:\South Tech\Visual Studio\Day Number\Day Number\obj\Debug\Day Number.pdb

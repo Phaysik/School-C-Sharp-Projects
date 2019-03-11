@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\Non-Compressed\stApp\stApp\bin\Debug\stApp.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\stApp\stApp\obj\Debug\stApp.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Non-Compressed\stApp\stApp\bin\Debug\stApp.exe
+E:\South Tech\Visual Studio\Non-Compressed\stApp\stApp\bin\Debug\stApp.pdb
+E:\South Tech\Visual Studio\Non-Compressed\stApp\stApp\obj\Debug\stApp.exe
+E:\South Tech\Visual Studio\Non-Compressed\stApp\stApp\obj\Debug\stApp.pdb

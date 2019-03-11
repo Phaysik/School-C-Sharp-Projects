@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\Non-Compressed\String Manipulation\String Manipulation\bin\Debug\String Manipulation.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\String Manipulation\String Manipulation\bin\Debug\String Manipulation.exe
+E:\South Tech\Visual Studio\Non-Compressed\String Manipulation\String Manipulation\bin\Debug\String Manipulation.pdb
+E:\South Tech\Visual Studio\Non-Compressed\String Manipulation\String Manipulation\obj\Debug\String Manipulation.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Non-Compressed\String Manipulation\String Manipulation\obj\Debug\String Manipulation.exe
+E:\South Tech\Visual Studio\Non-Compressed\String Manipulation\String Manipulation\obj\Debug\String Manipulation.pdb

@@ -1,0 +1,10 @@
+F:\South Tech\Visual Studio\ColatzSequence\ColatzSequence\bin\Debug\ColatzSequence.exe.config
+F:\South Tech\Visual Studio\ColatzSequence\ColatzSequence\bin\Debug\ColatzSequence.exe
+F:\South Tech\Visual Studio\ColatzSequence\ColatzSequence\bin\Debug\ColatzSequence.pdb
+F:\South Tech\Visual Studio\ColatzSequence\ColatzSequence\obj\Debug\ColatzSequence.csprojAssemblyReference.cache
+F:\South Tech\Visual Studio\ColatzSequence\ColatzSequence\obj\Debug\ColatzSequence.csproj.CoreCompileInputs.cache
+F:\South Tech\Visual Studio\ColatzSequence\ColatzSequence\obj\Debug\ColatzSequence.exe
+F:\South Tech\Visual Studio\ColatzSequence\ColatzSequence\obj\Debug\ColatzSequence.pdb
+E:\South Tech\Visual Studio\ColatzSequence\ColatzSequence\bin\Debug\ColatzSequence.exe.config
+E:\South Tech\Visual Studio\ColatzSequence\ColatzSequence\obj\Debug\ColatzSequence.exe
+E:\South Tech\Visual Studio\ColatzSequence\ColatzSequence\obj\Debug\ColatzSequence.pdb

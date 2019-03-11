@@ -1,0 +1,12 @@
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Calculate\Calculate\bin\Debug\Calculate.exe
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Calculate\Calculate\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Calculate\Calculate\obj\Debug\Calculate.Form1.resources
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.Cache
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Calculate\Calculate\obj\Debug\Calculate.exe
+C:\Users\710866\Documents\Visual Studio 2015\Projects\Calculate\Calculate\obj\Debug\Calculate.pdb
+E:\South Tech\Visual Studio\Calculate\Calculate\bin\Debug\Calculate.exe.config
+E:\South Tech\Visual Studio\Calculate\Calculate\obj\Debug\Calculate.exe
+E:\South Tech\Visual Studio\Calculate\Calculate\obj\Debug\Calculate.pdb

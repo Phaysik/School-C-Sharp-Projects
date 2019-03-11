@@ -1,0 +1,5 @@
+E:\South Tech\Visual Studio\SumofSeries\SumofSeries\bin\Debug\SumofSeries.exe.config
+E:\South Tech\Visual Studio\SumofSeries\SumofSeries\bin\Debug\SumofSeries.exe
+E:\South Tech\Visual Studio\SumofSeries\SumofSeries\bin\Debug\SumofSeries.pdb
+E:\South Tech\Visual Studio\SumofSeries\SumofSeries\obj\Debug\SumofSeries.exe
+E:\South Tech\Visual Studio\SumofSeries\SumofSeries\obj\Debug\SumofSeries.pdb

@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\timeConversion\timeConversion\bin\Debug\timeConversion.exe.config
+E:\South Tech\Visual Studio\timeConversion\timeConversion\bin\Debug\timeConversion.exe
+E:\South Tech\Visual Studio\timeConversion\timeConversion\bin\Debug\timeConversion.pdb
+E:\South Tech\Visual Studio\timeConversion\timeConversion\obj\Debug\timeConversion.exe
+E:\South Tech\Visual Studio\timeConversion\timeConversion\obj\Debug\timeConversion.pdb
+E:\South Tech\Visual Studio\timeConversion\timeConversion\obj\Debug\timeConversion.csprojResolveAssemblyReference.cache

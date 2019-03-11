@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\Non-Compressed\Phone lise\Phone lise\bin\Debug\Phone lise.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\Phone lise\Phone lise\bin\Debug\Phone lise.exe
+E:\South Tech\Visual Studio\Non-Compressed\Phone lise\Phone lise\bin\Debug\Phone lise.pdb
+E:\South Tech\Visual Studio\Non-Compressed\Phone lise\Phone lise\obj\Debug\Phone lise.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Non-Compressed\Phone lise\Phone lise\obj\Debug\Phone lise.exe
+E:\South Tech\Visual Studio\Non-Compressed\Phone lise\Phone lise\obj\Debug\Phone lise.pdb

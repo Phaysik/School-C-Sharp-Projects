@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\firstTest\firstTest\bin\Debug\firstTest.exe.config
+E:\South Tech\Visual Studio\firstTest\firstTest\bin\Debug\firstTest.exe
+E:\South Tech\Visual Studio\firstTest\firstTest\bin\Debug\firstTest.pdb
+E:\South Tech\Visual Studio\firstTest\firstTest\obj\Debug\firstTest.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\firstTest\firstTest\obj\Debug\firstTest.exe
+E:\South Tech\Visual Studio\firstTest\firstTest\obj\Debug\firstTest.pdb

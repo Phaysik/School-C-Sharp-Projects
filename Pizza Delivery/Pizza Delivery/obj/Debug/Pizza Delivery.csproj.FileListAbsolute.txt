@@ -1,0 +1,9 @@
+E:\South Tech\Visual Studio\Non-Compressed\Pizza Delivery\Pizza Delivery\bin\Debug\Pizza Delivery.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\Pizza Delivery\Pizza Delivery\bin\Debug\Pizza Delivery.exe
+E:\South Tech\Visual Studio\Non-Compressed\Pizza Delivery\Pizza Delivery\bin\Debug\Pizza Delivery.pdb
+E:\South Tech\Visual Studio\Non-Compressed\Pizza Delivery\Pizza Delivery\obj\Debug\Pizza Delivery.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Non-Compressed\Pizza Delivery\Pizza Delivery\obj\Debug\Pizza_Delivery.Form1.resources
+E:\South Tech\Visual Studio\Non-Compressed\Pizza Delivery\Pizza Delivery\obj\Debug\Pizza_Delivery.Properties.Resources.resources
+E:\South Tech\Visual Studio\Non-Compressed\Pizza Delivery\Pizza Delivery\obj\Debug\Pizza Delivery.csproj.GenerateResource.Cache
+E:\South Tech\Visual Studio\Non-Compressed\Pizza Delivery\Pizza Delivery\obj\Debug\Pizza Delivery.exe
+E:\South Tech\Visual Studio\Non-Compressed\Pizza Delivery\Pizza Delivery\obj\Debug\Pizza Delivery.pdb

@@ -1,0 +1,9 @@
+E:\South Tech\Visual Studio\Non-Compressed\Racing\Racing\bin\Debug\Racing.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\Racing\Racing\bin\Debug\Racing.exe
+E:\South Tech\Visual Studio\Non-Compressed\Racing\Racing\bin\Debug\Racing.pdb
+E:\South Tech\Visual Studio\Non-Compressed\Racing\Racing\obj\Debug\Racing.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Non-Compressed\Racing\Racing\obj\Debug\Racing.Form1.resources
+E:\South Tech\Visual Studio\Non-Compressed\Racing\Racing\obj\Debug\Racing.Properties.Resources.resources
+E:\South Tech\Visual Studio\Non-Compressed\Racing\Racing\obj\Debug\Racing.csproj.GenerateResource.Cache
+E:\South Tech\Visual Studio\Non-Compressed\Racing\Racing\obj\Debug\Racing.exe
+E:\South Tech\Visual Studio\Non-Compressed\Racing\Racing\obj\Debug\Racing.pdb

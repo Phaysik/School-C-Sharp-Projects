@@ -1,0 +1,12 @@
+E:\South Tech\Visual Studio\primeDivision\primeDivision\bin\Debug\primeDivision.exe.config
+E:\South Tech\Visual Studio\primeDivision\primeDivision\bin\Debug\primeDivision.exe
+E:\South Tech\Visual Studio\primeDivision\primeDivision\bin\Debug\primeDivision.pdb
+E:\South Tech\Visual Studio\primeDivision\primeDivision\obj\Debug\primeDivision.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\primeDivision\primeDivision\obj\Debug\primeDivision.exe
+E:\South Tech\Visual Studio\primeDivision\primeDivision\obj\Debug\primeDivision.pdb
+F:\South Tech\Visual Studio\primeDivision\primeDivision\bin\Debug\primeDivision.exe.config
+F:\South Tech\Visual Studio\primeDivision\primeDivision\bin\Debug\primeDivision.exe
+F:\South Tech\Visual Studio\primeDivision\primeDivision\bin\Debug\primeDivision.pdb
+F:\South Tech\Visual Studio\primeDivision\primeDivision\obj\Debug\primeDivision.csproj.CoreCompileInputs.cache
+F:\South Tech\Visual Studio\primeDivision\primeDivision\obj\Debug\primeDivision.exe
+F:\South Tech\Visual Studio\primeDivision\primeDivision\obj\Debug\primeDivision.pdb

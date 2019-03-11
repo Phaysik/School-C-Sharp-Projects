@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\ToUpper\ToUpper\bin\Debug\ToUpper.exe.config
+E:\South Tech\Visual Studio\ToUpper\ToUpper\bin\Debug\ToUpper.exe
+E:\South Tech\Visual Studio\ToUpper\ToUpper\bin\Debug\ToUpper.pdb
+E:\South Tech\Visual Studio\ToUpper\ToUpper\obj\Debug\ToUpper.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\ToUpper\ToUpper\obj\Debug\ToUpper.exe
+E:\South Tech\Visual Studio\ToUpper\ToUpper\obj\Debug\ToUpper.pdb

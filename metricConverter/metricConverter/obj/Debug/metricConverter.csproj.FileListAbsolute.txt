@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\metricConverter\metricConverter\bin\Debug\metricConverter.exe.config
+E:\South Tech\Visual Studio\metricConverter\metricConverter\bin\Debug\metricConverter.exe
+E:\South Tech\Visual Studio\metricConverter\metricConverter\bin\Debug\metricConverter.pdb
+E:\South Tech\Visual Studio\metricConverter\metricConverter\obj\Debug\metricConverter.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\metricConverter\metricConverter\obj\Debug\metricConverter.exe
+E:\South Tech\Visual Studio\metricConverter\metricConverter\obj\Debug\metricConverter.pdb

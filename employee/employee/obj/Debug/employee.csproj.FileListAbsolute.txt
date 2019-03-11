@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\employee\employee\bin\Debug\employee.exe.config
+E:\South Tech\Visual Studio\employee\employee\bin\Debug\employee.exe
+E:\South Tech\Visual Studio\employee\employee\bin\Debug\employee.pdb
+E:\South Tech\Visual Studio\employee\employee\obj\Debug\employee.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\employee\employee\obj\Debug\employee.exe
+E:\South Tech\Visual Studio\employee\employee\obj\Debug\employee.pdb

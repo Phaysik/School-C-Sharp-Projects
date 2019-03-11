@@ -1,0 +1,9 @@
+E:\South Tech\Visual Studio\Mid3\Mid3\bin\Debug\Mid3.exe.config
+E:\South Tech\Visual Studio\Mid3\Mid3\obj\Debug\Mid3.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Mid3\Mid3\bin\Debug\Mid3.exe
+E:\South Tech\Visual Studio\Mid3\Mid3\bin\Debug\Mid3.pdb
+E:\South Tech\Visual Studio\Mid3\Mid3\obj\Debug\Mid3.exe
+E:\South Tech\Visual Studio\Mid3\Mid3\obj\Debug\Mid3.pdb
+E:\South Tech\Visual Studio\Non-Compressed\Mid3\Mid3\bin\Debug\Mid3.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\Mid3\Mid3\obj\Debug\Mid3.exe
+E:\South Tech\Visual Studio\Non-Compressed\Mid3\Mid3\obj\Debug\Mid3.pdb

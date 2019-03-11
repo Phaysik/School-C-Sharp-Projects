@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\ArrayExamples2\ArrayExamples2\bin\Debug\ArrayExamples2.exe.config
+E:\South Tech\Visual Studio\ArrayExamples2\ArrayExamples2\bin\Debug\ArrayExamples2.exe
+E:\South Tech\Visual Studio\ArrayExamples2\ArrayExamples2\bin\Debug\ArrayExamples2.pdb
+E:\South Tech\Visual Studio\ArrayExamples2\ArrayExamples2\obj\Debug\ArrayExamples2.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\ArrayExamples2\ArrayExamples2\obj\Debug\ArrayExamples2.exe
+E:\South Tech\Visual Studio\ArrayExamples2\ArrayExamples2\obj\Debug\ArrayExamples2.pdb

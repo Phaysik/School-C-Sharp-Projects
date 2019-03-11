@@ -1,0 +1,13 @@
+E:\South Tech\Visual Studio\Change\Change\bin\Debug\Change.exe.config
+E:\South Tech\Visual Studio\Change\Change\bin\Debug\Change.exe
+E:\South Tech\Visual Studio\Change\Change\bin\Debug\Change.pdb
+E:\South Tech\Visual Studio\Change\Change\obj\Debug\Change.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Change\Change\obj\Debug\Change.exe
+E:\South Tech\Visual Studio\Change\Change\obj\Debug\Change.pdb
+F:\South Tech\Visual Studio\Change\Change\bin\Debug\Change.exe.config
+F:\South Tech\Visual Studio\Change\Change\bin\Debug\Change.exe
+F:\South Tech\Visual Studio\Change\Change\bin\Debug\Change.pdb
+F:\South Tech\Visual Studio\Change\Change\obj\Debug\Change.csprojAssemblyReference.cache
+F:\South Tech\Visual Studio\Change\Change\obj\Debug\Change.csproj.CoreCompileInputs.cache
+F:\South Tech\Visual Studio\Change\Change\obj\Debug\Change.exe
+F:\South Tech\Visual Studio\Change\Change\obj\Debug\Change.pdb

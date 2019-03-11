@@ -1,0 +1,10 @@
+F:\South Tech\Visual Studio\NarcissisticNumber\NarcissisticNumber\bin\Debug\NarcissisticNumber.exe.config
+F:\South Tech\Visual Studio\NarcissisticNumber\NarcissisticNumber\bin\Debug\NarcissisticNumber.exe
+F:\South Tech\Visual Studio\NarcissisticNumber\NarcissisticNumber\bin\Debug\NarcissisticNumber.pdb
+F:\South Tech\Visual Studio\NarcissisticNumber\NarcissisticNumber\obj\Debug\NarcissisticNumber.csprojAssemblyReference.cache
+F:\South Tech\Visual Studio\NarcissisticNumber\NarcissisticNumber\obj\Debug\NarcissisticNumber.csproj.CoreCompileInputs.cache
+F:\South Tech\Visual Studio\NarcissisticNumber\NarcissisticNumber\obj\Debug\NarcissisticNumber.exe
+F:\South Tech\Visual Studio\NarcissisticNumber\NarcissisticNumber\obj\Debug\NarcissisticNumber.pdb
+E:\South Tech\Visual Studio\NarcissisticNumber\NarcissisticNumber\bin\Debug\NarcissisticNumber.exe.config
+E:\South Tech\Visual Studio\NarcissisticNumber\NarcissisticNumber\obj\Debug\NarcissisticNumber.exe
+E:\South Tech\Visual Studio\NarcissisticNumber\NarcissisticNumber\obj\Debug\NarcissisticNumber.pdb

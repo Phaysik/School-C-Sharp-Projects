@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\LoopHex\LoopHex\bin\Debug\LoopHex.exe.config
+E:\South Tech\Visual Studio\LoopHex\LoopHex\bin\Debug\LoopHex.exe
+E:\South Tech\Visual Studio\LoopHex\LoopHex\bin\Debug\LoopHex.pdb
+E:\South Tech\Visual Studio\LoopHex\LoopHex\obj\Debug\LoopHex.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\LoopHex\LoopHex\obj\Debug\LoopHex.exe
+E:\South Tech\Visual Studio\LoopHex\LoopHex\obj\Debug\LoopHex.pdb

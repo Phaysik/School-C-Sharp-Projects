@@ -1,0 +1,9 @@
+E:\South Tech\Visual Studio\Non-Compressed\DrawShapes\DrawShapes\bin\Debug\DrawShapes.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\DrawShapes\DrawShapes\bin\Debug\DrawShapes.exe
+E:\South Tech\Visual Studio\Non-Compressed\DrawShapes\DrawShapes\bin\Debug\DrawShapes.pdb
+E:\South Tech\Visual Studio\Non-Compressed\DrawShapes\DrawShapes\obj\Debug\DrawShapes.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Non-Compressed\DrawShapes\DrawShapes\obj\Debug\DrawShapes.Form1.resources
+E:\South Tech\Visual Studio\Non-Compressed\DrawShapes\DrawShapes\obj\Debug\DrawShapes.Properties.Resources.resources
+E:\South Tech\Visual Studio\Non-Compressed\DrawShapes\DrawShapes\obj\Debug\DrawShapes.csproj.GenerateResource.Cache
+E:\South Tech\Visual Studio\Non-Compressed\DrawShapes\DrawShapes\obj\Debug\DrawShapes.exe
+E:\South Tech\Visual Studio\Non-Compressed\DrawShapes\DrawShapes\obj\Debug\DrawShapes.pdb

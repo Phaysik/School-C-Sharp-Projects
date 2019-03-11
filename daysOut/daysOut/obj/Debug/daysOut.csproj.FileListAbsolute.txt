@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\daysOut\daysOut\bin\Debug\daysOut.exe.config
+E:\South Tech\Visual Studio\daysOut\daysOut\obj\Debug\daysOut.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\daysOut\daysOut\bin\Debug\daysOut.exe
+E:\South Tech\Visual Studio\daysOut\daysOut\bin\Debug\daysOut.pdb
+E:\South Tech\Visual Studio\daysOut\daysOut\obj\Debug\daysOut.exe
+E:\South Tech\Visual Studio\daysOut\daysOut\obj\Debug\daysOut.pdb

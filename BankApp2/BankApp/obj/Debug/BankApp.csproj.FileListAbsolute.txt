@@ -1,0 +1,12 @@
+C:\Users\710866\Desktop\BankApp\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\710866\Desktop\BankApp\BankApp\bin\Debug\BankApp.exe
+C:\Users\710866\Desktop\BankApp\BankApp\bin\Debug\BankApp.pdb
+C:\Users\710866\Desktop\BankApp\BankApp\obj\Debug\BankApp.csprojResolveAssemblyReference.cache
+C:\Users\710866\Desktop\BankApp\BankApp\obj\Debug\BankApp.exe
+C:\Users\710866\Desktop\BankApp\BankApp\obj\Debug\BankApp.pdb
+C:\Users\710866\Desktop\BankApp2\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\710866\Desktop\BankApp2\BankApp\obj\Debug\BankApp.exe
+C:\Users\710866\Desktop\BankApp2\BankApp\obj\Debug\BankApp.pdb
+C:\Users\710866\Desktop\BankApp2\BankApp\bin\Debug\BankApp.exe
+C:\Users\710866\Desktop\BankApp2\BankApp\bin\Debug\BankApp.pdb
+C:\Users\710866\Desktop\BankApp2\BankApp\obj\Debug\BankApp.csprojResolveAssemblyReference.cache

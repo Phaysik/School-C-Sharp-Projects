@@ -1,0 +1,5 @@
+E:\South Tech\Visual Studio\speedofSound\speedofSound\bin\Debug\speedofSound.exe.config
+E:\South Tech\Visual Studio\speedofSound\speedofSound\bin\Debug\speedofSound.exe
+E:\South Tech\Visual Studio\speedofSound\speedofSound\bin\Debug\speedofSound.pdb
+E:\South Tech\Visual Studio\speedofSound\speedofSound\obj\Debug\speedofSound.exe
+E:\South Tech\Visual Studio\speedofSound\speedofSound\obj\Debug\speedofSound.pdb

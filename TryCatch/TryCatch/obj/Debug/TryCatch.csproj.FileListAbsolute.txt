@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\Non-Compressed\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+E:\South Tech\Visual Studio\Non-Compressed\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+E:\South Tech\Visual Studio\Non-Compressed\TryCatch\TryCatch\obj\Debug\TryCatch.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Non-Compressed\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+E:\South Tech\Visual Studio\Non-Compressed\TryCatch\TryCatch\obj\Debug\TryCatch.pdb

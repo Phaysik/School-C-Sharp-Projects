@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\lowestDrop\lowestDrop\bin\Debug\lowestDrop.exe.config
+E:\South Tech\Visual Studio\lowestDrop\lowestDrop\bin\Debug\lowestDrop.exe
+E:\South Tech\Visual Studio\lowestDrop\lowestDrop\bin\Debug\lowestDrop.pdb
+E:\South Tech\Visual Studio\lowestDrop\lowestDrop\obj\Debug\lowestDrop.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\lowestDrop\lowestDrop\obj\Debug\lowestDrop.exe
+E:\South Tech\Visual Studio\lowestDrop\lowestDrop\obj\Debug\lowestDrop.pdb

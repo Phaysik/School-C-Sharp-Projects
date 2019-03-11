@@ -1,0 +1,5 @@
+E:\South Tech\Visual Studio\Longest String\Longest String\bin\Debug\Longest String.exe.config
+E:\South Tech\Visual Studio\Longest String\Longest String\bin\Debug\Longest String.exe
+E:\South Tech\Visual Studio\Longest String\Longest String\bin\Debug\Longest String.pdb
+E:\South Tech\Visual Studio\Longest String\Longest String\obj\Debug\Longest String.exe
+E:\South Tech\Visual Studio\Longest String\Longest String\obj\Debug\Longest String.pdb

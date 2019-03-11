@@ -1,0 +1,9 @@
+E:\South Tech\Visual Studio\Non-Compressed\FlyerSportsClub\FlyerSportsClub\bin\Debug\FlyerSportsClub.exe.config
+E:\South Tech\Visual Studio\Non-Compressed\FlyerSportsClub\FlyerSportsClub\obj\Debug\FlyerSportsClub.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Non-Compressed\FlyerSportsClub\FlyerSportsClub\obj\Debug\FlyerSportsClub.Form1.resources
+E:\South Tech\Visual Studio\Non-Compressed\FlyerSportsClub\FlyerSportsClub\obj\Debug\FlyerSportsClub.csproj.GenerateResource.Cache
+E:\South Tech\Visual Studio\Non-Compressed\FlyerSportsClub\FlyerSportsClub\bin\Debug\FlyerSportsClub.exe
+E:\South Tech\Visual Studio\Non-Compressed\FlyerSportsClub\FlyerSportsClub\bin\Debug\FlyerSportsClub.pdb
+E:\South Tech\Visual Studio\Non-Compressed\FlyerSportsClub\FlyerSportsClub\obj\Debug\FlyerSportsClub.Properties.Resources.resources
+E:\South Tech\Visual Studio\Non-Compressed\FlyerSportsClub\FlyerSportsClub\obj\Debug\FlyerSportsClub.exe
+E:\South Tech\Visual Studio\Non-Compressed\FlyerSportsClub\FlyerSportsClub\obj\Debug\FlyerSportsClub.pdb

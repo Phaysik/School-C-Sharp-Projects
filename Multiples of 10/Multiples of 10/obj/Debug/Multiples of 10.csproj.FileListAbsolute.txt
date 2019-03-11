@@ -1,0 +1,5 @@
+E:\South Tech\Visual Studio\Multiples of 10\Multiples of 10\bin\Debug\Multiples of 10.exe.config
+E:\South Tech\Visual Studio\Multiples of 10\Multiples of 10\bin\Debug\Multiples of 10.exe
+E:\South Tech\Visual Studio\Multiples of 10\Multiples of 10\bin\Debug\Multiples of 10.pdb
+E:\South Tech\Visual Studio\Multiples of 10\Multiples of 10\obj\Debug\Multiples of 10.exe
+E:\South Tech\Visual Studio\Multiples of 10\Multiples of 10\obj\Debug\Multiples of 10.pdb

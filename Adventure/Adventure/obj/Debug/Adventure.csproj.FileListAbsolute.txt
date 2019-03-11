@@ -1,0 +1,6 @@
+E:\South Tech\Visual Studio\Adventure\Adventure\bin\Debug\Adventure.exe.config
+E:\South Tech\Visual Studio\Adventure\Adventure\bin\Debug\Adventure.exe
+E:\South Tech\Visual Studio\Adventure\Adventure\bin\Debug\Adventure.pdb
+E:\South Tech\Visual Studio\Adventure\Adventure\obj\Debug\Adventure.csprojResolveAssemblyReference.cache
+E:\South Tech\Visual Studio\Adventure\Adventure\obj\Debug\Adventure.exe
+E:\South Tech\Visual Studio\Adventure\Adventure\obj\Debug\Adventure.pdb
